@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">![sidemirror3](https://github.com/user-attachments/assets/dcf95cb2-8f0e-4852-9698-5f77e68751cd)
+![sidemirror3 copy](https://github.com/user-attachments/assets/201d7dd4-6eaf-4fa0-9067-3d0f175acf82)
+![mags4](https://github.com/user-attachments/assets/fd267ad8-0263-4b4c-806d-7c1e6d067ba8)
+![lightendisc15](https://github.com/user-attachments/assets/d0f8c467-d088-4e8d-b6bb-06fbd8f0262c)
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Iron House Garage</title>
     <style>
@@ -412,3 +416,21 @@
 
 </body>
 </html>
+![tire7](https://github.com/user-attachments/assets/6abebfac-b3ee-42f4-abd2-0966d729bac4)
+![signalights12](https://github.com/user-attachments/assets/7bdacc52-62f1-4631-8e77-dcb7247fe813)
+![seatcover11](https://github.com/user-attachments/assets/f64e6aa0-a500-4167-a446-db88a16ec408)
+![rim2](https://github.com/user-attachments/assets/60b3fa83-719b-44e3-a78c-50abf7e9da62)
+![mdl18](https://github.com/user-attachments/assets/0ea99f29-0b4d-46bd-af5f-06357080115d)
+![led20](https://github.com/user-attachments/assets/7568ed0b-96a6-438d-bf03-51e8460101ad)
+![horns9](https://github.com/user-attachments/assets/a6c69c9b-64b4-406b-86e1-a5d8b7dabf1b)
+![helmet17](https://github.com/user-attachments/assets/16cd9522-7c81-4005-b4ad-57b8f30e81d2)
+![handlegrip13](https://github.com/user-attachments/assets/8f8afb87-5a42-4362-97ca-7be1f7099a1a)
+![gearshifter10](https://github.com/user-attachments/assets/728598a0-ea83-4f6d-ba6d-6ce50a8896e0)
+![dunlop16](https://github.com/user-attachments/assets/20bde3ea-d7ba-45a5-97c4-aba1702b30f2)
+![break flu![headlight5](https://github.com/user-attachments/assets/d3e952cb-4385-42fb-8efa-9c63b8b30841)
+![handleswitch14](https://github.com/user-attachments/assets/451ce9c0-25ca-4848-a287-05764d6cfaf9)
+![clutchlever9](https://github.com/user-attachments/assets/78d05534-5c10-447e-aff2-c459a2fb02d8)
+![chainset6](https://github.com/user-attachments/assets/fca257dc-3dfc-4f5e-9aca-1a7d74f662a8)
+id19](https://github.com/user-attachments/assets/97c25afd-522b-47f1-880f-9c214622359e)
+![bolts1](https://github.com/user-attachments/assets/fddd58be-a0c6-4841-9443-e5c192b7f9c3)
+![beastire8](https://github.com/user-attachments/assets/a6ca3573-b93a-421c-849f-4bca727bf819)
